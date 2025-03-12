@@ -1,3 +1,0 @@
-# Site Customization
-
-<p> </p>
