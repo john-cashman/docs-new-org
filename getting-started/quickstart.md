@@ -1,23 +1,11 @@
----
-icon: bullseye-arrow
----
-
 # Quickstart
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
-
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
-
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
-
-### Import your files here
-
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
-
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
-
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+<h3>Getting Started</h3>
+<p> </p>
+<p>You’ll need a GitBook account to start publishing documentation. If you don’t already have an account, you can <a href="https://gitbook.com" rel="noopener noreferrer" target="_blank">Sign Up</a> for free.</p>
+<p> </p>
+<h3>Create a docs site</h3>
+<p>When you first sign up, you’ll have a chance to create a docs site from the docs site wizard. You can launch the wizard again to create a new site at any point by clicking the + button next to the Docs sites header in the sidebar.</p>
+<p class="wysiwyg-text-align-center"><img alt="Publish your first site" height="500" src="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2Ftr45YCskBmSWji7m4HZj%2Fgetting-started-quickstart.svg?alt=media&amp;token=160e7114-067b-46cb-979d-5b6ce7b5d0c9" width="230"/></p>
+<p>Now that you’ve created a site, you can edit or import your content. If you have an existing repository on GitHub or GitLab with your documentation, you can easily migrate and sync your content to GitBook using Git Sync. Find out more in our guide to migrating content using Git Sync.
+After importing your content, you can edit your pages using GitBook’s built-in editor and do things like add interactive blocks, customize the layout of your pages and more.</p>
